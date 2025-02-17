@@ -9,12 +9,18 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 ## Papers
 
-### 人像relighting
+### image
+
+#### 人像relighting
 Deep Single-Image Portrait Relighting [ICCV 2019] ![Star](https://img.shields.io/github/stars/zhhoper/DPR.svg?style=social&label=Stars)[https://github.com/zhhoper/DPR]
 
-### 物体relighting
+#### 物体relighting
 
-### 场景relighting
+#### 场景relighting
+
+### video
+
+### 3D
 
 ## Datasets
 ### VIDIT dataset
