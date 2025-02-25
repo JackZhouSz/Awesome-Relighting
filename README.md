@@ -6,7 +6,7 @@ hope you can help with the following:
 - Help with adding any missing papers and their links.
 - Assist in adding code links for the papers and the number of stars on GitHub.
 - Help with including information on publicly available datasets.
-- Provide details on current relighting software or websites.
+- Provide links of current relighting software or websites.
 - Assist in adding or correcting any other relevant information.
 
 ## Publications
