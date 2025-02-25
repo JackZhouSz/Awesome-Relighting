@@ -31,6 +31,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.05] [ICLR2025] Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport https://openreview.net/forum?id=u1cQYxRI1H   
 
+[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion https://arxiv.org/pdf/2406.07520   
+
 [2024.12] [AAAI2025] Text2Relight: Creative Portrait Relighting with Text Guidance https://arxiv.org/pdf/2412.13734
 
 [2025.01] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces https://arxiv.org/pdf/2501.09756    
@@ -46,6 +48,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2024.10] LumiSculpt: A Consistency Lighting Control Network for Video Generation https://arxiv.org/pdf/2410.22979   
 
 ### 3D
+[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion https://arxiv.org/pdf/2406.07520   
 
 ## Datasets
 ### VIDIT dataset
