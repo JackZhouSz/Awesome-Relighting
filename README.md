@@ -126,6 +126,6 @@ Clipdrop: https://clipdrop.co/relight
 
 
 
-## ✨ Star History
+## Star history ✨ 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=liuzr17/Awesome-Relighting&type=Date)](https://star-history.com/#liuzr17/Awesome-Relighting&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tandaily/Awesome-Relighting&type=Date)](https://star-history.com/#tandaily/Awesome-Relighting&Date)
