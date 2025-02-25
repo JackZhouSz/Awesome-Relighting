@@ -28,11 +28,11 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2020.08] [ECCV2020] Learning to Factorize and Relight a City  https://arxiv.org/pdf/2008.02796  
 
+[2020.08] [ECCV2020] Self-supervised Outdoor Scene Relighting https://arxiv.org/pdf/2107.03106  
+
 [2021] [SIGGRAPH 2021] Total Relighting: Learning to Relight Portraits for Background Replacement   https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf 
 
-[2021.04] [CVPR2021] Towards High Fidelity Face Relighting with Realistic Shadows https://arxiv.org/pdf/2104.00825   
-
-[2021.07] [ECCV2020] Self-supervised Outdoor Scene Relighting https://arxiv.org/pdf/2107.03106   
+[2021.04] [CVPR2021] Towards High Fidelity Face Relighting with Realistic Shadows https://arxiv.org/pdf/2104.00825    
 
 [2022.03] [CVPR2022] Face Relighting with Geometrically Consistent Shadows  https://arxiv.org/pdf/2203.16681   
 
