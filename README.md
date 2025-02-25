@@ -96,7 +96,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis https://arxiv.org/pdf/2409.08947   
 
 ### Security
-[2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition          
+[2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition https://arxiv.org/pdf/2108.07920             
 
 ## Datasets
 ### VIDIT dataset
