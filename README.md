@@ -82,13 +82,14 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 
 ### Video
-[2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion https://arxiv.org/pdf/2502.08590         
+[2024.10] LumiSculpt: A Consistency Lighting Control Network for Video Generation https://arxiv.org/pdf/2410.22979  
 
-[2025.02] VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation https://arxiv.org/pdf/2502.07531    
+[2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting https://arxiv.org/pdf/2501.16330    
 
-[2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting https://arxiv.org/pdf/2501.16330   
+[2025.02] VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation https://arxiv.org/pdf/2502.07531  
 
-[2024.10] LumiSculpt: A Consistency Lighting Control Network for Video Generation https://arxiv.org/pdf/2410.22979   
+[2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion https://arxiv.org/pdf/2502.08590        
+
 
 ### 3D
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion https://arxiv.org/pdf/2406.07520   
