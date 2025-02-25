@@ -1,6 +1,6 @@
 # Awesome-Relighting
 
-Collection of relighting works. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis, feel free to contact me to add... :thumbsup:
+Collection of relighting works. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis.
 
 hope you can help with the following:
 - Help with adding any missing papers and their links.
@@ -8,6 +8,7 @@ hope you can help with the following:
 - Help with including information on publicly available datasets.
 - Provide links of current relighting software or websites.
 - Assist in adding or correcting any other relevant information.
+- Star this repository.
 
 ## Publications
 
@@ -123,8 +124,8 @@ Clipdrop: https://clipdrop.co/relight
 ### Lighting estimation
 [CVPR2024] DiffusionLight: Light Probes for Free by Painting a Chrome Ball https://arxiv.org/pdf/2312.09168  
 
-[^_^]: # ### Star History
 
-[^_^]: # ## Star History
 
-[^_^]: # [![Star History Chart](https://api.star-history.com/svg?repos=liuzr17/Awesome-Relighting&type=Date)](https://star-history.com/#liuzr17/Awesome-Relighting&Date)
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=liuzr17/Awesome-Relighting&type=Date)](https://star-history.com/#liuzr17/Awesome-Relighting&Date)
