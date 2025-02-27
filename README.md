@@ -73,6 +73,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis https://arxiv.org/pdf/2409.08947   
 
+[2024.12] [CVPR2025] LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting https://arxiv.org/pdf/2412.00177    
+
 [2024.12] [AAAI2025] Text2Relight: Creative Portrait Relighting with Text Guidance https://arxiv.org/pdf/2412.13734
 
 [2024.12] LuminaBrush: Illumination Drawing Tools for Text-to-Image Diffusion Models https://github.com/lllyasviel/LuminaBrush  
