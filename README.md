@@ -176,11 +176,12 @@ Clipdrop: https://clipdrop.co/relight
 ## Related work
 
 ### Lighting estimation
-[SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation  
+[SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation  https://arxiv.org/pdf/2209.09898      
 [CVPR2024] DiffusionLight: Light Probes for Free by Painting a Chrome Ball https://arxiv.org/pdf/2312.09168   
 
 
-
+<!-- 
 ## Star history ✨ 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tandaily/Awesome-Relighting&type=Date)](https://star-history.com/#tandaily/Awesome-Relighting&Date)
+-->
