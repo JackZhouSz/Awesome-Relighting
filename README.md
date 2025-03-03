@@ -119,7 +119,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion https://arxiv.org/pdf/2502.08590      
 
-[2025.02] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  https://arxiv.org/pdf/2502.19894   
+[2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  https://arxiv.org/pdf/2502.19894   
 
 
 ### 3D
