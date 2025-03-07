@@ -172,6 +172,7 @@ IC-Light: https://github.com/lllyasviel/IC-Light
 Adobe ProjectPerfectBlend: https://x.com/Pinsky/status/1846351993478037857   
 Magnific Relight: https://x.com/javilopen/status/1805274155065176489   
 Clipdrop: https://clipdrop.co/relight   
+FreeLighting: https://github.com/liuyuxuan3060/FreeLighting  https://huggingface.co/spaces/wulongmetac/FreeLighting     
 
 ## Related work
 
