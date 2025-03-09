@@ -158,7 +158,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [CVIU2024] BiPR-RL: Portrait relighting via bi-directional consistent deep reinforcement learning  https://www.sciencedirect.com/science/article/pii/S1077314223002692   
 
-[TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning PR-RL: Portrait Relighting Via Deep Reinforcement Learning   
+[TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning https://ieeexplore.ieee.org/document/9484089       
 
 ## Datasets
 
