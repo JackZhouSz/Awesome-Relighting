@@ -148,8 +148,17 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting https://arxiv.org/pdf/2410.08188   
 
+
 ### Security
-[2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition https://arxiv.org/pdf/2108.07920             
+
+[2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition https://arxiv.org/pdf/2108.07920         
+
+
+### Reinforcement Learning
+
+[CVIU2024] BiPR-RL: Portrait relighting via bi-directional consistent deep reinforcement learning  https://www.sciencedirect.com/science/article/pii/S1077314223002692   
+
+[TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning PR-RL: Portrait Relighting Via Deep Reinforcement Learning   
 
 ## Datasets
 
