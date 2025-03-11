@@ -61,7 +61,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.02] [CVPR2024] SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting  [paper](https://arxiv.org/pdf/2402.18848)   
 
-[2024.02] [SIGGRAPH2024] DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation  [paper](https://arxiv.org/pdf/2402.11929v2) [code](DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation) ![GitHub Repo stars](https://img.shields.io/github/stars/iamNCJ/DiLightNet)          
+[2024.02] [SIGGRAPH2024] DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation  [paper](https://arxiv.org/pdf/2402.11929v2) [code](https://github.com/iamNCJ/DiLightNet) ![GitHub Repo stars](https://img.shields.io/github/stars/iamNCJ/DiLightNet)          
 
 [2024.03] [CVPR2024] LightIt: Illumination Modeling and Control for Diffusion Models   [paper](https://arxiv.org/pdf/2403.10615)           
 
