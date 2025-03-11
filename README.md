@@ -53,8 +53,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2023.03] [CVPR2023] Weakly-supervised Single-view Image Relighting [paper](https://arxiv.org/pdf/2303.13852)  
 
-[2023.04] [ICCV2023] DiFaReli: Diffusion Face Relighting [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) 
-
+[2023.04] [ICCV2023] DiFaReli: Diffusion Face Relighting [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
+ 
 [2023.11] Lasagna: Layered Score Distillation for Disentangled Object Relighting [paper](https://arxiv.org/pdf/2312.00833)   
 
 [2023.12] [CVPR2024] Relightful Harmonization: Lighting-aware Portrait Background Replacement   [paper](https://arxiv.org/pdf/2312.06886)    
@@ -69,9 +69,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.05] [ICLR2025] Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport [paper](https://openreview.net/forum?id=u1cQYxRI1H) [code](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/IC-Light)      
 
-[2024.05] [NeurIPS2024] Latent Intrinsics Emerge from Training to Relight  [paper](https://arxiv.org/pdf/2405.21074)   
+[2024.05] [NeurIPS2024] Latent Intrinsics Emerge from Training to Relight  [paper](https://arxiv.org/pdf/2405.21074)  [code](https://github.com/xyxingx/LumiNet/) ![GitHub Repo stars](https://img.shields.io/github/stars/xiao7199/Latent_Intrinsics)    
 
-[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  
+[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)       
 
 [2024.07] [ACM MM2024] CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model  [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)  
 
@@ -79,7 +79,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.08] [ECCV2024] COMPOSE: Comprehensive Portrait Shadow Editing  [paper](https://arxiv.org/pdf/2408.13922)    
 
-[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947)   
+[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947) [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/%20gaussian-splatting-relighting)    
 
 [2024.09] [SIGGRAPH Asia 2024] Portrait Video Editing Empowered by Multimodal Generative Priors [paper](https://arxiv.org/pdf/2409.13591)  
 
@@ -93,13 +93,13 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.11] All-frequency Full-body Human Image Relighting  [paper](https://arxiv.org/pdf/2411.00356)     
 
-[2024.12] [CVPR2025] LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting [paper](https://arxiv.org/pdf/2412.00177)    
+[2024.12] [CVPR2025] LumiNet: Latent Intrinsics Meets Diffusion Models for Indoor Scene Relighting [paper](https://arxiv.org/pdf/2412.00177)   [code](https://github.com/xyxingx/LumiNet/) ![GitHub Repo stars](https://img.shields.io/github/stars/xyxingx/LumiNet)     
 
 [2024.12] [AAAI2025] Text2Relight: Creative Portrait Relighting with Text Guidance [paper](https://arxiv.org/pdf/2412.13734)           
 
 [2024.12] LuminaBrush: Illumination Drawing Tools for Text-to-Image Diffusion Models [code](https://github.com/lllyasviel/LuminaBrush)  ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/LuminaBrush)    
 
-[2024.12] GenLit:ReformulatingSingle-ImageRelightingasVideoGeneration [paper](https://arxiv.org/pdf/2412.11224)    
+[2024.12] GenLit:Reformulating Single-Image Relighting as Video Generation [paper](https://arxiv.org/pdf/2412.11224)    
 
 [2025.01] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
 
@@ -132,7 +132,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)     
 
-[2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)    
+[2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)       
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
@@ -140,7 +140,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)   
 
-[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947)   
+[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947)   [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/%20gaussian-splatting-relighting)  
 
 [2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619)   
 
