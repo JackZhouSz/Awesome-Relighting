@@ -101,9 +101,11 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.12] GenLit:Reformulating Single-Image Relighting as Video Generation [paper](https://arxiv.org/pdf/2412.11224)    
 
-[2025.01] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
+[2025.01] [CVPR2025] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
 
 [2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)   [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
+
+[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization    
 
 
 ### Video
