@@ -23,7 +23,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
  
 [2019.06] [CVPR2020] Learning Physics-guided Face Relighting under Directional Light [paper](https://arxiv.org/pdf/1906.03355)  
 
-[2019.08] [ICCV2019] Deep Single-Image Portrait Relighting  ![Star](https://img.shields.io/github/stars/zhhoper/DPR.svg?style=social&label=Stars)[https://github.com/zhhoper/DPR] [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf)   
+[2019.08] [ICCV2019] Deep Single-Image Portrait Relighting [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhou_Deep_Single-Image_Portrait_Relighting_ICCV_2019_paper.pdf) ![Star](https://img.shields.io/github/stars/zhhoper/DPR.svg?style=social&label=Stars)[code](https://github.com/zhhoper/DPR)   
 
 [2020] [SIGGRAPH Asia 2020] Single image portrait relighting via explicit multiple reflectance channel modeling [paper](https://dl.acm.org/doi/pdf/10.1145/3414685.3417824)  
 
@@ -67,7 +67,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)   
 
-[2024.05] [ICLR2025] Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport [paper](https://openreview.net/forum?id=u1cQYxRI1H)   
+[2024.05] [ICLR2025] Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport [paper](https://openreview.net/forum?id=u1cQYxRI1H) [code](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/:user/https%3A%2F%2Fgithub.com%2Flllyasviel%2FIC-Light)  
 
 [2024.05] [NeurIPS2024] Latent Intrinsics Emerge from Training to Relight  [paper](https://arxiv.org/pdf/2405.21074)   
 
