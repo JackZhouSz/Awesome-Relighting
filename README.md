@@ -29,39 +29,39 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2020.08] [ECCV2020] Learning to Factorize and Relight a City  [paper](https://arxiv.org/pdf/2008.02796)  
 
-[2020.08] [ECCV2020] Self-supervised Outdoor Scene Relighting [paper](https://arxiv.org/pdf/2107.03106)  
+[2020.08] [ECCV2020] Self-supervised Outdoor Scene Relighting [paper](https://arxiv.org/pdf/2107.03106)  [code](https://github.com/YeeU/relightingNet)  ![GitHub Repo stars](https://img.shields.io/github/stars/YeeU/relightingNet)   
 
 [2021] [SIGGRAPH 2021] Total Relighting: Learning to Relight Portraits for Background Replacement   [paper](https://augmentedperception.github.io/total_relighting/total_relighting_paper.pdf) 
 
-[2021.04] [CVPR2021] Towards High Fidelity Face Relighting with Realistic Shadows [paper](https://arxiv.org/pdf/2104.00825)    
+[2021.04] [CVPR2021] Towards High Fidelity Face Relighting with Realistic Shadows [paper](https://arxiv.org/pdf/2104.00825)  [code](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/andrewhou1/Shadow-Mask-Face-Relighting)      
 
-[2022.03] [CVPR2022] Face Relighting with Geometrically Consistent Shadows  [paper](https://arxiv.org/pdf/2203.16681)   
+[2022.03] [CVPR2022] Face Relighting with Geometrically Consistent Shadows  [paper](https://arxiv.org/pdf/2203.16681)   [code](https://github.com/andrewhou1/GeomConsistentFR) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewhou1/GeomConsistentFR)   
 
 [2022.04] [CVPR2024] SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks  [paper](https://arxiv.org/pdf/2204.00644)  
 
 [2022.04] [CGF2024] OutCast: Outdoor Single-image Relighting with Cast Shadows [paper](https://arxiv.org/pdf/2204.09341)        
 
-[2022.05] [CVPR2024] StyLitGAN: Image-Based Relighting via Latent Control [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bhattad_StyLitGAN_Image-Based_Relighting_via_Latent_Control_CVPR_2024_paper.pdf)   
+[2022.05] [CVPR2024] StyLitGAN: Image-Based Relighting via Latent Control [paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Bhattad_StyLitGAN_Image-Based_Relighting_via_Latent_Control_CVPR_2024_paper.pdf)  [code](https://github.com/anandbhattad/stylitgan) ![GitHub Repo stars](https://img.shields.io/github/stars/anandbhattad/stylitgan)  
 
-[2022.05] [TIP2022] PNRNet: Physically-Inspired Neural Rendering for Any-to-Any Relighting [paper](https://ieeexplore.ieee.org/document/9785513)
+[2022.05] [TIP2022] PNRNet: Physically-Inspired Neural Rendering for Any-to-Any Relighting [paper](https://ieeexplore.ieee.org/document/9785513) [code](https://github.com/waldenlakes/PNRNet) ![GitHub Repo stars](https://img.shields.io/github/stars/waldenlakes/PNRNet)   
 
-[2022.07] [TIP2022] Designing an Illumination-Aware Network for Deep Image Relighting [paper](https://arxiv.org/pdf/2207.10582)   
+[2022.07] [TIP2022] Designing an Illumination-Aware Network for Deep Image Relighting [paper](https://arxiv.org/pdf/2207.10582) [code](https://github.com/NK-CS-ZZL/IAN) ![GitHub Repo stars](https://img.shields.io/github/stars/NK-CS-ZZL/IAN)      
 
 [2022.09] [SIGGRAPH Asia 2022] Lumos: Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation  [paper](https://arxiv.org/pdf/2209.10510)  
 
 [2023.03] [CVPR2023] LightPainter: Interactive Portrait Relighting with Freehand Scribble [paper](https://arxiv.org/pdf/2303.12950)  
 
-[2023.03] [CVPR2023] Weakly-supervised Single-view Image Relighting [paper](https://arxiv.org/pdf/2303.13852)  
+[2023.03] [CVPR2023] Weakly-supervised Single-view Image Relighting [paper](https://arxiv.org/pdf/2303.13852)  [code](https://github.com/renjiaoyi/imagerelighting) ![GitHub Repo stars](https://img.shields.io/github/stars/renjiaoyi/imagerelighting) 
 
 [2023.04] [ICCV2023] DiFaReli: Diffusion Face Relighting [paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ponglertnapakorn_DiFaReli_Diffusion_Face_Relighting_ICCV_2023_paper.pdf) [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
  
-[2023.11] Lasagna: Layered Score Distillation for Disentangled Object Relighting [paper](https://arxiv.org/pdf/2312.00833)   
+[2023.11] Lasagna: Layered Score Distillation for Disentangled Object Relighting [paper](https://arxiv.org/pdf/2312.00833)  [code](https://github.com/dbash/lasagna) ![GitHub Repo stars](https://img.shields.io/github/stars/dbash/lasagna) 
 
 [2023.12] [CVPR2024] Relightful Harmonization: Lighting-aware Portrait Background Replacement   [paper](https://arxiv.org/pdf/2312.06886)    
 
 [2024.02] [CVPR2024] SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting  [paper](https://arxiv.org/pdf/2402.18848)   
 
-[2024.02] [SIGGRAPH2024] DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation  [paper](https://arxiv.org/pdf/2402.11929v2)       
+[2024.02] [SIGGRAPH2024] DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation  [paper](https://arxiv.org/pdf/2402.11929v2) [code](DiLightNet: Fine-grained Lighting Control for Diffusion-based Image Generation) ![GitHub Repo stars](https://img.shields.io/github/stars/iamNCJ/DiLightNet)          
 
 [2024.03] [CVPR2024] LightIt: Illumination Modeling and Control for Diffusion Models   [paper](https://arxiv.org/pdf/2403.10615)           
 
@@ -81,9 +81,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947) [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting-relighting)       
 
-[2024.09] [SIGGRAPH Asia 2024] Portrait Video Editing Empowered by Multimodal Generative Priors [paper](https://arxiv.org/pdf/2409.13591)  
+[2024.09] [SIGGRAPH Asia 2024] Portrait Video Editing Empowered by Multimodal Generative Priors [paper](https://arxiv.org/pdf/2409.13591)  [code](https://github.com/USTC3DV/PortraitGen-code) ![GitHub Repo stars](https://img.shields.io/github/stars/USTC3DV/PortraitGen-code)   
 
-[2024.09] Relighting from a Single Image: Datasets and Deep Intrinsic-based Architecture [paper](https://arxiv.org/pdf/2409.18770)  
+[2024.09] Relighting from a Single Image: Datasets and Deep Intrinsic-based Architecture [paper](https://arxiv.org/pdf/2409.18770)  [code](https://github.com/CVC-CIC/DeepIntrinsicRelighting) ![GitHub Repo stars](https://img.shields.io/github/stars/CVC-CIC/DeepIntrinsicRelighting)     
 
 [2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting [paper](https://arxiv.org/pdf/2410.08188)      
 
@@ -103,7 +103,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.01] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
 
-[2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)  
+[2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)   [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
 
 
 ### Video
