@@ -71,7 +71,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.05] [NeurIPS2024] Latent Intrinsics Emerge from Training to Relight  [paper](https://arxiv.org/pdf/2405.21074)  [code](https://github.com/xyxingx/LumiNet/) ![GitHub Repo stars](https://img.shields.io/github/stars/xiao7199/Latent_Intrinsics)    
 
-[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)       
+[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)   
 
 [2024.07] [ACM MM2024] CFDiffusion: Controllable Foreground Relighting in Image Compositing via Diffusion Model  [paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681283)  
 
