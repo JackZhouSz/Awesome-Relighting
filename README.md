@@ -97,7 +97,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.12] [AAAI2025] Text2Relight: Creative Portrait Relighting with Text Guidance [paper](https://arxiv.org/pdf/2412.13734)           
 
-[2024.12] LuminaBrush: Illumination Drawing Tools for Text-to-Image Diffusion Models [code](https://github.com/lllyasviel/LuminaBrush)  
+[2024.12] LuminaBrush: Illumination Drawing Tools for Text-to-Image Diffusion Models [code](https://github.com/lllyasviel/LuminaBrush)  ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/LuminaBrush)    
 
 [2024.12] GenLit:ReformulatingSingle-ImageRelightingasVideoGeneration [paper](https://arxiv.org/pdf/2412.11224)    
 
@@ -117,9 +117,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.02] VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation [paper](https://arxiv.org/pdf/2502.07531)  
 
-[2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion [paper](https://arxiv.org/pdf/2502.08590)      
+[2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion [paper](https://arxiv.org/pdf/2502.08590)  [code](https://github.com/bcmi/Light-A-Video/)  ![GitHub Repo stars](https://img.shields.io/github/stars/bcmi/Light-A-Video)       
 
-[2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  [paper](https://arxiv.org/pdf/2502.19894)  
+[2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  [paper](https://arxiv.org/pdf/2502.19894) [code](https://github.com/MingtaoGuo/Relightable-Portrait-Animation)  ![GitHub Repo stars](https://img.shields.io/github/stars/MingtaoGuo/Relightable-Portrait-Animation)   
 
 [2025.03] [CVPR2025] Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset  [paper](https://yiqunmei.net/lux-web/static/pdfs/lux_post_facto.pdf)  
 
@@ -134,7 +134,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)    
 
-[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  
+[2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
 [2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  
 
