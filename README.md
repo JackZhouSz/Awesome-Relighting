@@ -79,7 +79,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.08] [ECCV2024] COMPOSE: Comprehensive Portrait Shadow Editing  [paper](https://arxiv.org/pdf/2408.13922)    
 
-[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947) [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/%20gaussian-splatting-relighting)    
+[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947) [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting-relighting)       
 
 [2024.09] [SIGGRAPH Asia 2024] Portrait Video Editing Empowered by Multimodal Generative Priors [paper](https://arxiv.org/pdf/2409.13591)  
 
@@ -140,7 +140,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)   
 
-[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947)   [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/%20gaussian-splatting-relighting)  
+[2024.09] [CGF2024] A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis [paper](https://arxiv.org/pdf/2409.08947)   [code](https://github.com/graphdeco-inria/gaussian-splatting-relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/graphdeco-inria/gaussian-splatting-relighting)       
 
 [2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619)   
 
