@@ -119,6 +119,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting [paper](https://arxiv.org/pdf/2501.16330)    
 
+[2025.01] DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models [paper](https://arxiv.org/abs/2501.18590)
+
 [2025.02] VidCRAFT3: Camera, Object, and Lighting Control for Image-to-Video Generation [paper](https://arxiv.org/pdf/2502.07531)  
 
 [2025.02] Light-A-Video: Training-free Video Relighting via Progressive Light Fusion [paper](https://arxiv.org/pdf/2502.08590)  [code](https://github.com/bcmi/Light-A-Video/)  ![GitHub Repo stars](https://img.shields.io/github/stars/bcmi/Light-A-Video)       
