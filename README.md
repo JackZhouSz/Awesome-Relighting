@@ -105,6 +105,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)   [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
 
+[2025.03] LBM:Latent Bridge Matching for Fast Image-to-Image Translation [paper](https://arxiv.org/pdf/2503.07535)    
+
 [CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization    
 
 
@@ -124,6 +126,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  [paper](https://arxiv.org/pdf/2502.19894) [code](https://github.com/MingtaoGuo/Relightable-Portrait-Animation)  ![GitHub Repo stars](https://img.shields.io/github/stars/MingtaoGuo/Relightable-Portrait-Animation)   
 
 [2025.03] [CVPR2025] Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset  [paper](https://yiqunmei.net/lux-web/static/pdfs/lux_post_facto.pdf)  
+
 
 
 ### 3D
