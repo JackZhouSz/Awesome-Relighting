@@ -105,7 +105,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)   [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
 
-[2025.03] LBM:Latent Bridge Matching for Fast Image-to-Image Translation [paper](https://arxiv.org/pdf/2503.07535)  
+[2025.03] LBM:Latent Bridge Matching for Fast Image-to-Image Translation [paper](https://arxiv.org/pdf/2503.07535) [demo](https://huggingface.co/spaces/jasperai/LBM_relighting) [project](https://gojasper.github.io/latent-bridge-matching/) [code](https://github.com/gojasper/LBM) ![GitHub Repo stars](https://img.shields.io/github/stars/gojasper/LBM)   
 
 [2025.03] [CVPR2025] GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling [paper](https://arxiv.org/pdf/2503.10597) [project](https://syntec-research.github.io/GroomLight/)   
 
