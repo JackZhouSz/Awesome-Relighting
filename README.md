@@ -57,7 +57,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
  
 [2023.11] Lasagna: Layered Score Distillation for Disentangled Object Relighting [paper](https://arxiv.org/pdf/2312.00833)  [code](https://github.com/dbash/lasagna) ![GitHub Repo stars](https://img.shields.io/github/stars/dbash/lasagna) 
 
-[2023.12] [CVPR2024] Relightful Harmonization: Lighting-aware Portrait Background Replacement   [paper](https://arxiv.org/pdf/2312.06886)    
+[2023.12] [CVPR2024] Relightful Harmonization: Lighting-aware Portrait Background Replacement   [paper](https://arxiv.org/pdf/2312.06886)   
+
+[2024.01] [CVPR2025] IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images [paper](https://arxiv.org/pdf/2401.12977) [project](https://irisldr.github.io/)      
 
 [2024.02] [CVPR2024] SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting  [paper](https://arxiv.org/pdf/2402.18848)   
 
@@ -100,6 +102,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2024.12] LuminaBrush: Illumination Drawing Tools for Text-to-Image Diffusion Models [code](https://github.com/lllyasviel/LuminaBrush)  ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/LuminaBrush)    
 
 [2024.12] GenLit:Reformulating Single-Image Relighting as Video Generation [paper](https://arxiv.org/pdf/2412.11224)    
+
+[2024.12] [CVPR2025] Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion [paper](https://arxiv.org/pdf/2412.15050) [project](https://yuevii.github.io/unirenderer-page/) [code](https://github.com/EnVision-Research/Uni-Renderer) ![GitHub Repo stars](https://img.shields.io/github/stars/EnVision-Research/Uni-Renderer)      
 
 [2025.01] [CVPR2025] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
 
