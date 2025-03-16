@@ -105,6 +105,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.12] [CVPR2025] Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion [paper](https://arxiv.org/pdf/2412.15050) [project](https://yuevii.github.io/unirenderer-page/) [code](https://github.com/EnVision-Research/Uni-Renderer) ![GitHub Repo stars](https://img.shields.io/github/stars/EnVision-Research/Uni-Renderer)      
 
+[2024.12] [CVPR2025] Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion [paper](https://arxiv.org/pdf/2412.09593v1) [project](https://projects.zxhezexin.com/neural-lightrig/) [code](https://github.com/ZexinHe/Neural-LightRig) ![GitHub Repo stars](https://img.shields.io/github/stars/ZexinHe/Neural-LightRig)      
+
 [2025.01] [CVPR2025] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
 
 [2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)   [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
