@@ -177,6 +177,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.12] [CVPR2025] Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation [paper](https://arxiv.org/pdf/2412.15211) [project](https://relight-to-reconstruct.github.io/)   
 
+[2024.12] [CVPR2025] Birth and Death of a Rose [paper](https://arxiv.org/pdf/2412.05278) [project](https://chen-geng.com/rose4d)   
+
 [2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/)    
 
 
