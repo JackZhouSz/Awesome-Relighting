@@ -145,7 +145,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.02] [CVPR2025] High-Fidelity Relightable Monocular Portrait Animation with Lighting-Controllable Video Diffusion Model  [paper](https://arxiv.org/pdf/2502.19894) [code](https://github.com/MingtaoGuo/Relightable-Portrait-Animation)  ![GitHub Repo stars](https://img.shields.io/github/stars/MingtaoGuo/Relightable-Portrait-Animation)   
 
-[2025.03] [CVPR2025] Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset  [paper](https://yiqunmei.net/lux-web/static/pdfs/lux_post_facto.pdf) [project](https://yiqunmei.net/lux-web/)
+[2025.03] [CVPR2025] Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset  [paper](https://arxiv.org/pdf/2503.14485) [project](https://yiqunmei.net/lux-web/)          
 
 
 
