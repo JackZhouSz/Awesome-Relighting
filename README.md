@@ -221,7 +221,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.02] BEAM:Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video [paper](https://arxiv.org/pdf/2502.08297)    
 
-[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/)  
+[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/) 
+
+[2025.03] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
 
 
 ### Security
