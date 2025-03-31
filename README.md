@@ -147,6 +147,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] [CVPR2025] Lux Post Facto: Learning Portrait Performance Relighting with Conditional Video Diffusion and a Hybrid Dataset  [paper](https://arxiv.org/pdf/2503.14485) [project](https://yiqunmei.net/lux-web/)          
 
+[2025.03] Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance [paper](https://arxiv.org/pdf/2503.22225) [project](https://anonymous-hub1127.github.io/FYM.github.io/)     
+
 
 
 ### 3D
@@ -156,6 +158,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2023.08] [CVPR2024] Relightable and Animatable Neural Avatar from Sparse-View Video [paper](https://arxiv.org/pdf/2308.07903) [project](https://zju3dv.github.io/relightable_avatar) [code](https://github.com/zju3dv/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/RelightableAvatar)    
 
 [2023.11] [ECCV2024] The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility  [paper](https://arxiv.org/pdf/2311.16937) 
+
+[2023.11] [CVPR2024] GS-IR: 3D Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2311.16473) [project](https://lzhnb.github.io/project-pages/gs-ir.html) [code](https://github.com/lzhnb/GS-IR) ![GitHub Repo stars](https://img.shields.io/github/stars/lzhnb/GS-IR)  
 
 [2023.12] [AAAI2024] Relightable and Animatable Neural Avatars from Videos [paper](https://arxiv.org/pdf/2312.12877) [project](https://wenbin-lin.github.io/RelightableAvatar-page/) [code](https://github.com/wenbin-lin/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/wenbin-lin/RelightableAvatar)    
 
@@ -225,6 +229,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
 
+[2025.03] TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting [paper](https://arxiv.org/pdf/2503.22676)      
 
 ### Security
 
