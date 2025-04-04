@@ -59,6 +59,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2023.12] [CVPR2024] Relightful Harmonization: Lighting-aware Portrait Background Replacement   [paper](https://arxiv.org/pdf/2312.06886)   
 
+[2023.12] [CVPR2024] Intrinsic Image Diffusion for Single-view Material Estimation [paper](https://arxiv.org/pdf/2312.12274) [project](https://peter-kocsis.github.io/IntrinsicImageDiffusion/) [code](https://github.com/Peter-Kocsis/IntrinsicImageDiffusion) ![GitHub Repo stars](https://img.shields.io/github/stars/Peter-Kocsis/IntrinsicImageDiffusion)    
+
 [2024.01] [CVPR2025] IRIS: Inverse Rendering of Indoor Scenes from Low Dynamic Range Images [paper](https://arxiv.org/pdf/2401.12977) [project](https://irisldr.github.io/)      
 
 [2024.02] [CVPR2024] SwitchLight: Co-design of Physics-driven Architecture and Pre-training Framework for Human Portrait Relighting  [paper](https://arxiv.org/pdf/2402.18848)   
@@ -125,7 +127,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] [CVPR2025] GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling [paper](https://arxiv.org/pdf/2503.10597) [project](https://syntec-research.github.io/GroomLight/)   
 
-[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization    
+[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization   
+
+[2025.04] IntrinsiX: High-Quality PBR Generation using Image Priors [paper](https://arxiv.org/pdf/2504.01008) [project](https://peter-kocsis.github.io/IntrinsiX/)    
 
 
 ### Video
