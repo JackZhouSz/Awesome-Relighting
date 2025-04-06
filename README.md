@@ -129,8 +129,6 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization [project](https://junyingw.github.io/paper/relighting/index.html) 
 
-[2025.04] IntrinsiX: High-Quality PBR Generation using Image Priors [paper](https://arxiv.org/pdf/2504.01008) [project](https://peter-kocsis.github.io/IntrinsiX/)    
-
 
 ### Video
 [2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
@@ -180,6 +178,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)     
 
 [2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)       
+
+[2024.05] [SIGGRAPH2024] RGB↔X: Image decomposition and synthesis using material- and lighting-aware diffusion models [paper](https://arxiv.org/pdf/2405.00666) [project](https://zheng95z.github.io/publications/rgbx24) [code](https://github.com/zheng95z/rgbx) ![GitHub Repo stars](https://img.shields.io/github/stars/zheng95z/rgbx)       
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
@@ -248,7 +248,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 ### Reinforcement Learning
 
-[CVIU2024] BiPR-RL: Portrait relighting via bi-directional consistent deep reinforcement learning  [paper](https://www.sciencedirect.com/science/article/pii/S1077314223002692)   
+[CVIU2024] BiPR-RL: Portrait relighting via bi-directional consistent deep reinforcement learning  [paper](https://www.sciencedirect.com/science/article/pii/S1077314223002692)  
 
 [TMM2022] PR-RL: Portrait Relighting Via Deep Reinforcement Learning [paper](https://ieeexplore.ieee.org/document/9484089)       
 
@@ -277,10 +277,28 @@ FreeLighting: https://github.com/liuyuxuan3060/FreeLighting  https://huggingface
 
 ## Related work
 
-### Lighting estimation
-[SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation  [paper](https://arxiv.org/pdf/2209.09898)      
-[CVPR2024] DiffusionLight: Light Probes for Free by Painting a Chrome Ball [paper](https://arxiv.org/pdf/2312.09168)   
+### Intrinsic Decomposition & Inverse Rendering
+Please refer to [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) ![GitHub Repo stars](https://img.shields.io/github/stars/tkuri/Awesome-InverseRendering) 
 
+### HDR Generation
+[SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation  [paper](https://arxiv.org/pdf/2209.09898) [project](https://frozenburning.github.io/projects/text2light/) [code](https://github.com/FrozenBurning/Text2Light)  ![GitHub Repo stars](https://img.shields.io/github/stars/FrozenBurning/Text2Light)  
+
+### PBR Generation
+[2024.09] [CVPR2025] 3DTopia-XL: High-Quality 3D PBR Asset Generation via Primitive Diffusion [paper](https://arxiv.org/pdf/2409.12957) [project](https://3dtopia.github.io/3DTopia-XL/) [code](https://github.com/3DTopia/3DTopia-XL) ![GitHub Repo stars](https://img.shields.io/github/stars/3DTopia/3DTopia-XL)  
+
+[2025.04] IntrinsiX: High-Quality PBR Generation using Image Priors [paper](https://arxiv.org/pdf/2504.01008) [project](https://peter-kocsis.github.io/IntrinsiX/)    
+
+### Lighting Estimation    
+
+Please refer to [Awesome-Illumination-Estimation](https://github.com/waldenlakes/Awesome-Illumination-Estimation) ![GitHub Repo stars](https://img.shields.io/github/stars/waldenlakes/Awesome-Illumination-Estimation)  
+
+[CVPR2024] DiffusionLight: Light Probes for Free by Painting a Chrome Ball [paper](https://arxiv.org/pdf/2312.09168)  [project](https://diffusionlight.github.io/) [code](https://github.com/DiffusionLight/DiffusionLight) ![GitHub Repo stars](https://img.shields.io/github/stars/DiffusionLight/DiffusionLight)  
+
+[ECCV2022] StyleLight: HDR Panorama Generation for Lighting Estimation and Editing [paper](https://arxiv.org/pdf/2207.14811) [project](https://style-light.github.io/) [code](https://github.com/Wanggcong/StyleLight) ![GitHub Repo stars](https://img.shields.io/github/stars/Wanggcong/StyleLight)  
+
+[AAAI2021] EMLight: Lighting Estimation via Spherical Distribution Approximation [paper](https://arxiv.org/pdf/2012.11116) & [TIP2022] GMLight: Lighting Estimation via Geometric Distribution Approximation [paper](https://arxiv.org/pdf/2102.10244) [code](https://github.com/fnzhan/EMLight) ![GitHub Repo stars](https://img.shields.io/github/stars/fnzhan/EMLight)  
+
+.......
 
 <!-- 
 ## Star history ✨ 
