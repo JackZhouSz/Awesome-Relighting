@@ -127,12 +127,14 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] [CVPR2025] GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling [paper](https://arxiv.org/pdf/2503.10597) [project](https://syntec-research.github.io/GroomLight/)   
 
-[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization   
+[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization [project](https://junyingw.github.io/paper/relighting/index.html) 
 
 [2025.04] IntrinsiX: High-Quality PBR Generation using Image Priors [paper](https://arxiv.org/pdf/2504.01008) [project](https://peter-kocsis.github.io/IntrinsiX/)    
 
 
 ### Video
+[2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
+
 [2023.11] [ECCV2024] Personalized Video Relighting With an At-Home Light Stage [paper](https://arxiv.org/pdf/2311.08843) [project](https://chedgekorea.github.io/relighting/)
 
 [2024.04] [CVPR workshop: EDGE2024] EdgeRelight360: Text-Conditioned 360-Degree HDR Image Generation for Real-Time On-Device Video Portrait Relighting [paper](https://arxiv.org/pdf/2404.09918)    
@@ -157,13 +159,17 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 ### 3D
 
-[2023.04] [CVPR2023] TensoIR: Tensorial Inverse Rendering [paper](https://arxiv.org/pdf/2304.12461)     
+[2023.04] [CVPR2023] TensoIR: Tensorial Inverse Rendering [paper](https://arxiv.org/pdf/2304.12461) [project](https://haian-jin.github.io/TensoIR/) [code](https://github.com/Haian-Jin/TensoIR)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/TensoIR)    
 
+[2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
+ 
 [2023.08] [CVPR2024] Relightable and Animatable Neural Avatar from Sparse-View Video [paper](https://arxiv.org/pdf/2308.07903) [project](https://zju3dv.github.io/relightable_avatar) [code](https://github.com/zju3dv/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/RelightableAvatar)    
 
 [2023.11] [ECCV2024] The Sky's the Limit: Re-lightable Outdoor Scenes via a Sky-pixel Constrained Illumination Prior and Outside-In Visibility  [paper](https://arxiv.org/pdf/2311.16937) 
 
 [2023.11] [CVPR2024] GS-IR: 3D Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2311.16473) [project](https://lzhnb.github.io/project-pages/gs-ir.html) [code](https://github.com/lzhnb/GS-IR) ![GitHub Repo stars](https://img.shields.io/github/stars/lzhnb/GS-IR)  
+
+[2023.11] [ECCV2024] Relightable 3D Gaussian: Real-time Point Cloud Relighting with BRDF Decomposition and Ray Tracing [paper](https://arxiv.org/pdf/2311.16043) [project](https://nju-3dv.github.io/projects/Relightable3DGaussian/) [code](https://github.com/NJU-3DV/Relightable3DGaussian) ![GitHub Repo stars](https://img.shields.io/github/stars/NJU-3DV/Relightable3DGaussian)  
 
 [2023.12] [AAAI2024] Relightable and Animatable Neural Avatars from Videos [paper](https://arxiv.org/pdf/2312.12877) [project](https://wenbin-lin.github.io/RelightableAvatar-page/) [code](https://github.com/wenbin-lin/RelightableAvatar) ![GitHub Repo stars](https://img.shields.io/github/stars/wenbin-lin/RelightableAvatar)    
 
