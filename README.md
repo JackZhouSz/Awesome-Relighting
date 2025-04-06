@@ -71,6 +71,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)  [project](https://yiqunmei.net/holo-web/)   
 
+[2024.05] [SIGGRAPH2024] RGB↔X: Image decomposition and synthesis using material- and lighting-aware diffusion models [paper](https://arxiv.org/pdf/2405.00666) [project](https://zheng95z.github.io/publications/rgbx24) [code](https://github.com/zheng95z/rgbx) ![GitHub Repo stars](https://img.shields.io/github/stars/zheng95z/rgbx)       
+
 [2024.05] [ICLR2025] Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport [paper](https://openreview.net/forum?id=u1cQYxRI1H) [code](https://github.com/lllyasviel/IC-Light) ![GitHub Repo stars](https://img.shields.io/github/stars/lllyasviel/IC-Light)      
 
 [2024.05] [NeurIPS2024] Latent Intrinsics Emerge from Training to Relight  [paper](https://arxiv.org/pdf/2405.21074)  [code](https://github.com/xyxingx/LumiNet/) ![GitHub Repo stars](https://img.shields.io/github/stars/xiao7199/Latent_Intrinsics)    
@@ -178,8 +180,6 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2024.03] [CVPR2024] Holo-Relighting: Controllable Volumetric Portrait Relighting from a Single Image [paper](https://arxiv.org/pdf/2403.09632)     
 
 [2024.05] [CVPR2024] Real-time 3D-aware Portrait Video Relighting  [paper](https://arxiv.org/pdf/2410.18355)   [code](https://github.com/GhostCai/PortraitRelighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/GhostCai/PortraitRelighting)       
-
-[2024.05] [SIGGRAPH2024] RGB↔X: Image decomposition and synthesis using material- and lighting-aware diffusion models [paper](https://arxiv.org/pdf/2405.00666) [project](https://zheng95z.github.io/publications/rgbx24) [code](https://github.com/zheng95z/rgbx) ![GitHub Repo stars](https://img.shields.io/github/stars/zheng95z/rgbx)       
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
