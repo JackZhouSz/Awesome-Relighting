@@ -35,6 +35,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2021.04] [CVPR2021] Towards High Fidelity Face Relighting with Realistic Shadows [paper](https://arxiv.org/pdf/2104.00825) [project](http://cvlab.cse.msu.edu/project-shadowmask.html) [code](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)  ![GitHub Repo stars](https://img.shields.io/github/stars/andrewhou1/Shadow-Mask-Face-Relighting)      
 
+[2021.10] [CGF2021] Relighting Humans in the Wild: Monocular Full-Body Human Relighting with Domain Adaptation [paper](https://arxiv.org/pdf/2110.07272) [code](https://github.com/majita06/Relighting_in_the_Wild)  ![GitHub Repo stars](https://img.shields.io/github/stars/majita06/Relighting_in_the_Wild)      
+
 [2022.03] [CVPR2022] Face Relighting with Geometrically Consistent Shadows  [paper](https://arxiv.org/pdf/2203.16681) [project](http://cvlab.cse.msu.edu/project-geomconsshadows.html) [code](https://github.com/andrewhou1/GeomConsistentFR) ![GitHub Repo stars](https://img.shields.io/github/stars/andrewhou1/GeomConsistentFR)   
 
 [2022.04] [CVPR2024] SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks  [paper](https://arxiv.org/pdf/2204.00644)  
@@ -46,6 +48,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2022.05] [TIP2022] PNRNet: Physically-Inspired Neural Rendering for Any-to-Any Relighting [paper](https://ieeexplore.ieee.org/document/9785513) [code](https://github.com/waldenlakes/PNRNet) ![GitHub Repo stars](https://img.shields.io/github/stars/waldenlakes/PNRNet)   
 
 [2022.07] [TIP2022] Designing an Illumination-Aware Network for Deep Image Relighting [paper](https://arxiv.org/pdf/2207.10582) [code](https://github.com/NK-CS-ZZL/IAN) ![GitHub Repo stars](https://img.shields.io/github/stars/NK-CS-ZZL/IAN)      
+
+[2022.07] [ECCV2022] Geometry-aware Single-image Full-body Human Relighting [paper](https://arxiv.org/pdf/2207.04750) [project](https://jcn16.github.io/jcn.github.io/Relighting/) 
 
 [2022.09] [SIGGRAPH Asia 2022] Lumos: Learning to Relight Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation  [paper](https://arxiv.org/pdf/2209.10510)  
 
