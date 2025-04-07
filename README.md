@@ -129,7 +129,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] [CVPR2025] GroomLight: Hybrid Inverse Rendering for Relightable Human Hair Appearance Modeling [paper](https://arxiv.org/pdf/2503.10597) [project](https://syntec-research.github.io/GroomLight/)   
 
-[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization [project](https://junyingw.github.io/paper/relighting/index.html) 
+[CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization [paper](https://arxiv.org/pdf/2504.03011) [project](https://junyingw.github.io/paper/relighting/index.html) 
 
 
 ### Video
