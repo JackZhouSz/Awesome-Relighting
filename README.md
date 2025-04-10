@@ -243,7 +243,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
 
-[2025.03] TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting [paper](https://arxiv.org/pdf/2503.22676)      
+[2025.03] TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting [paper](https://arxiv.org/pdf/2503.22676)     
+
+[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)    
 
 ### Security
 
