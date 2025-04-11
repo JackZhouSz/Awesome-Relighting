@@ -145,7 +145,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.10] LumiSculpt: A Consistency Lighting Control Network for Video Generation [paper](https://arxiv.org/pdf/2410.22979)  
 
-[2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting [paper](https://arxiv.org/pdf/2501.16330)    
+[2025.01] RelightVid: Temporal-Consistent Diffusion Model for Video Relighting [paper](https://arxiv.org/pdf/2501.16330)  [project](https://aleafy.github.io/relightvid/) [code](https://github.com/Aleafy/RelightVid)  ![GitHub Repo stars](https://img.shields.io/github/stars/Aleafy/RelightVid)   
 
 [2025.01] [CVPR2025] DiffusionRenderer: Neural Inverse and Forward Rendering with Video Diffusion Models [paper](https://arxiv.org/abs/2501.18590)     
 
