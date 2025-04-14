@@ -135,6 +135,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.04] [CVPR2025] Comprehensive Relighting: Generalizable and Consistent Monocular Human Relighting and Harmonization [paper](https://arxiv.org/pdf/2504.03011) [project](https://junyingw.github.io/paper/relighting/index.html) 
 
+[2025.04] ChildlikeSHAPES: Semantic Hierarchical Region Parsing for Animating Figure Drawings [paper](https://arxiv.org/pdf/2504.08022)   
+
 
 ### Video
 [2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
