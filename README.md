@@ -247,7 +247,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.03] TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting [paper](https://arxiv.org/pdf/2503.22676)     
 
-[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)    
+[2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)   
+
+[2025.04] LightHeadEd: Relightable & Editable Head Avatars from a Smartphone [paper](https://arxiv.org/pdf/2504.09671)   
 
 ### Security
 
