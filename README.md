@@ -189,7 +189,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.06] [NeurIPS2024] Neural Gaffer: Relighting Any Object via Diffusion [paper](https://arxiv.org/pdf/2406.07520)  [code](https://github.com/Haian-Jin/Neural_Gaffer)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/Neural_Gaffer)      
 
-[2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  
+[2024.06] [NeurIPS2024] IllumiNeRF: 3D Relighting Without Inverse Rendering [paper](https://arxiv.org/pdf/2406.06527)  [project](https://illuminerf.github.io/) [code](https://github.com/illuminerf/illuminerf_results) ![GitHub Repo stars](https://img.shields.io/github/stars/illuminerf/illuminerf_results)       
 
 [2024.07] [SIGGRAPH2024] Lite2Relight: 3D-aware Single Image Portrait Relighting [paper](https://arxiv.org/pdf/2407.10487)   
 
@@ -203,9 +203,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.10] [ICLR2025] GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering  [paper](https://arxiv.org/pdf/2410.02619) [code](https://github.com/stopaimme/GI-GS) ![GitHub Repo stars](https://img.shields.io/github/stars/stopaimme/GI-GS)   
 
-[2024.10] [ICLR2025] RelitLRM: Generative Relightable Radiance for Large Reconstruction Models   [paper](https://arxiv.org/pdf/2410.06231)
+[2024.10] [ICLR2025] RelitLRM: Generative Relightable Radiance for Large Reconstruction Models   [paper](https://arxiv.org/pdf/2410.06231) [project](https://relit-lrm.github.io/)    
 
-[2024.10] [SIGGRAPH Asia 2024] GS^3: Efficient Relighting with Triple Gaussian Splatting  [paper](https://arxiv.org/pdf/2410.11419)   
+[2024.10] [SIGGRAPH Asia 2024] GS^3: Efficient Relighting with Triple Gaussian Splatting  [paper](https://arxiv.org/pdf/2410.11419) [project](https://gsrelight.github.io/) [code](https://github.com/gsrelight/gs-relight)  ![GitHub Repo stars](https://img.shields.io/github/stars/gsrelight/gs-relight)   
 
 [2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting [paper](https://arxiv.org/pdf/2410.08188)  
 
@@ -221,7 +221,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.11] [CVPR2025] UrbanCAD: Towards Highly Controllable and Photorealistic 3D Vehicles for Urban Scene Simulation [paper](https://arxiv.org/pdf/2411.19292) [project](https://xdimlab.github.io/UrbanCAD/)    
 
-[2024.12] [CVPR2025] ReCap: Better Gaussian Relighting with Cross-Environment Captures [paper](https://arxiv.org/pdf/2412.07534) [project](https://jingzhi.github.io/ReCap/) 
+[2024.12] [CVPR2025] ReCap: Better Gaussian Relighting with Cross-Environment Captures [paper](https://arxiv.org/pdf/2412.07534) [project](https://jingzhi.github.io/ReCap/) [code](https://github.com/jingzhi/ReCap) ![GitHub Repo stars](https://img.shields.io/github/stars/jingzhi/ReCap)   
 
 [2024.12] [CVPR2025] Generative Multiview Relighting for 3D Reconstruction under Extreme Illumination Variation [paper](https://arxiv.org/pdf/2412.15211) [project](https://relight-to-reconstruct.github.io/)   
 
@@ -250,6 +250,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2025.04] SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering [paper](https://arxiv.org/pdf/2504.06815)   
 
 [2025.04] LightHeadEd: Relightable & Editable Head Avatars from a Smartphone [paper](https://arxiv.org/pdf/2504.09671)   
+
+[2025.04] DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting [paper](https://arxiv.org/pdf/2504.10486) [project](https://jzr99.github.io/DNF-Avatar/) [code](https://github.com/jzr99/DNF-Avatar) ![GitHub Repo stars](https://img.shields.io/github/stars/jzr99/DNF-Avatar)
 
 ### Security
 
