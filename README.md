@@ -251,7 +251,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.04] LightHeadEd: Relightable & Editable Head Avatars from a Smartphone [paper](https://arxiv.org/pdf/2504.09671)   
 
-[2025.04] DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting [paper](https://arxiv.org/pdf/2504.10486) [project](https://jzr99.github.io/DNF-Avatar/) [code](https://github.com/jzr99/DNF-Avatar) ![GitHub Repo stars](https://img.shields.io/github/stars/jzr99/DNF-Avatar)
+[2025.04] DNF-Avatar: Distilling Neural Fields for Real-time Animatable Avatar Relighting [paper](https://arxiv.org/pdf/2504.10486) [project](https://jzr99.github.io/DNF-Avatar/) [code](https://github.com/jzr99/DNF-Avatar) ![GitHub Repo stars](https://img.shields.io/github/stars/jzr99/DNF-Avatar)    
+
+[2025.04] Beyond Reconstruction: A Physics Based Neural Deferred Shader for Photo-realistic Rendering [paper](https://arxiv.org/pdf/2504.12273) 
 
 ### Security
 
