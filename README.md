@@ -167,6 +167,12 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 ### 3D
 
+[2022.04] [CVPR2022] (InvRender) Modeling Indirect Illumination for Inverse Rendering [paper](https://arxiv.org/pdf/2204.06837) [code](https://github.com/zju3dv/InvRender) [project](https://zju3dv.github.io/invrender/) ![GitHub Repo stars](https://img.shields.io/github/stars/zju3dv/InvRender) 
+
+[2022.06] [NeurIPS2022] (nvdiffrecmc) Shape, Light, and Material Decomposition from Images using Monte Carlo Rendering and Denoising [paper](https://arxiv.org/pdf/2206.03380) [code](https://github.com/NVlabs/nvdiffrecmc) [project](https://nvlabs.github.io/nvdiffrecmc/) ![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/nvdiffrecmc)     
+
+[2023.04] [ICCV2023] Neural-PBIR Reconstruction of Shape, Material, and Illumination [paper](https://arxiv.org/pdf/2304.13445) [project](https://neural-pbir.github.io/)  
+
 [2023.04] [CVPR2023] TensoIR: Tensorial Inverse Rendering [paper](https://arxiv.org/pdf/2304.12461) [project](https://haian-jin.github.io/TensoIR/) [code](https://github.com/Haian-Jin/TensoIR)  ![GitHub Repo stars](https://img.shields.io/github/stars/Haian-Jin/TensoIR)    
 
 [2023.05] [TOG2023] NeRFFaceLighting: Implicit and Disentangled Face Lighting Representation Leveraging Generative Prior in Neural Radiance Fields [paper](https://dl.acm.org/doi/pdf/10.1145/3597300) [project](http://www.geometrylearning.com/NeRFFaceLighting/) [code](https://github.com/IGLICT/NeRFFaceLighting) ![GitHub Repo stars](https://img.shields.io/github/stars/IGLICT/NeRFFaceLighting)    
@@ -258,6 +264,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [2025.04] Beyond Reconstruction: A Physics Based Neural Deferred Shader for Photo-realistic Rendering [paper](https://arxiv.org/pdf/2504.12273) 
 
 [2025.04] RGS-DR:Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects [paper](https://arxiv.org/pdf/2504.18468)   
+
+[2025.04] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026)    
 
 ### Security
 
