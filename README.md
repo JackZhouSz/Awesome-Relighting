@@ -265,7 +265,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.04] RGS-DR:Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects [paper](https://arxiv.org/pdf/2504.18468)   
 
-[2025.04] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026)    
+[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026)    
 
 ### Security
 
