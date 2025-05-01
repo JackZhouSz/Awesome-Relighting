@@ -93,7 +93,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2024.09] [SIGGRAPH Asia 2024] Portrait Video Editing Empowered by Multimodal Generative Priors [paper](https://arxiv.org/pdf/2409.13591)  [code](https://github.com/USTC3DV/PortraitGen-code) ![GitHub Repo stars](https://img.shields.io/github/stars/USTC3DV/PortraitGen-code)   
 
-[2024.09] Relighting from a Single Image: Datasets and Deep Intrinsic-based Architecture [paper](https://arxiv.org/pdf/2409.18770)  [code](https://github.com/CVC-CIC/DeepIntrinsicRelighting) ![GitHub Repo stars](https://img.shields.io/github/stars/CVC-CIC/DeepIntrinsicRelighting)     
+[2024.09] [TMM2025] Relighting from a Single Image: Datasets and Deep Intrinsic-based Architecture [paper](https://arxiv.org/pdf/2409.18770)  [code](https://github.com/CVC-CIC/DeepIntrinsicRelighting) ![GitHub Repo stars](https://img.shields.io/github/stars/CVC-CIC/DeepIntrinsicRelighting)     
 
 [2024.10] [SIGGRAPH Asia 2024] DifFRelight: Diffusion-Based Facial Performance Relighting [paper](https://arxiv.org/pdf/2410.08188)      
 
