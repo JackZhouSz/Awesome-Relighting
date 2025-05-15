@@ -139,6 +139,10 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.04] Digital Kitchen Remodeling: Editing and Relighting Intricate Indoor Scenes from a Single Panorama [paper](https://arxiv.org/pdf/2504.16086)   
 
+[2025.05] [SIGGRAPH2025] IntrinsicEdit: Precise generative image manipulation in intrinsic space [paper](https://arxiv.org/pdf/2505.08889)    
+
+[2025.05] LightLab: Controlling Light Sources in Images with Diffusion Models [paper](https://arxiv.org/pdf/2505.09608) [project](https://nadmag.github.io/LightLab/)    
+
 
 ### Video
 [2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
