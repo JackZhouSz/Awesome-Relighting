@@ -2,7 +2,7 @@
 
 Collection of relighting works. Questions and discussions are most welcome! Upcoming works will be updated on a regular basis.
 
-hope you can help with the following:
+Hope you can help with the following:
 - Help with adding any missing papers and their links.
 - Assist in adding code links for the papers and the number of stars on GitHub.
 - Help with including information on publicly available datasets.
@@ -288,13 +288,13 @@ hope you can help with the following:
 
 [3DV2024] Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting [paper](https://arxiv.org/pdf/2401.09126)
 
-### VIDIT dataset
+### VIDIT Dataset
 <!--训练：300个游戏引擎场景每个场景40种光照(5种色温、8种方向)   
 测试&验证：45个场景   -->
-### Multi-Illumination dataset
+### Multi-Illumination Dataset
 <!--训练：985个室内场景每个场景25种光照  
 测试&验证：30个场景   -->
-### DPR dataset
+### DPR Dataset
 <!--人脸数据集，利用CelebA-HQ的30000张人脸5种光照合成138,135张图像  
 提供数据集制作脚本   -->
 ## Metrics
@@ -307,7 +307,7 @@ Magnific Relight: https://x.com/javilopen/status/1805274155065176489
 Clipdrop: https://clipdrop.co/relight   
 FreeLighting: https://github.com/liuyuxuan3060/FreeLighting  https://huggingface.co/spaces/wulongmetac/FreeLighting     
 
-## Related work
+## Related Work
 
 ### Intrinsic Decomposition & Inverse Rendering
 Please refer to [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) ![GitHub Repo stars](https://img.shields.io/github/stars/tkuri/Awesome-InverseRendering) 
