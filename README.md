@@ -139,9 +139,9 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.04] Digital Kitchen Remodeling: Editing and Relighting Intricate Indoor Scenes from a Single Panorama [paper](https://arxiv.org/pdf/2504.16086)   
 
-[2025.05] [SIGGRAPH2025] IntrinsicEdit: Precise generative image manipulation in intrinsic space [paper](https://arxiv.org/pdf/2505.08889)    
+[2025.05] [SIGGRAPH2025] IntrinsicEdit: Precise generative image manipulation in intrinsic space [paper](https://arxiv.org/pdf/2505.08889) [project](https://intrinsic-edit.github.io/)      
 
-[2025.05] LightLab: Controlling Light Sources in Images with Diffusion Models [paper](https://arxiv.org/pdf/2505.09608) [project](https://nadmag.github.io/LightLab/)    
+[2025.05] [SIGGRAPH2025] LightLab: Controlling Light Sources in Images with Diffusion Models [paper](https://arxiv.org/pdf/2505.09608) [project](https://nadmag.github.io/LightLab/)    
 
 
 ### Video
