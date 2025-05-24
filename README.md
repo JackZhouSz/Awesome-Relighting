@@ -13,7 +13,7 @@ hope you can help with the following:
 ## Publications
 
 ## Survey
-Deep Neural Models for Illumination Estimation and Relighting: A Survey 
+[CGF2021] Deep Neural Models for Illumination Estimation and Relighting: A Survey [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.14283)  
 
 ## Papers
 
@@ -123,7 +123,7 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2025.01] [CVPR2025] SynthLight: Portrait Relighting with Diffusion Model by Learning to Re-render Synthetic Faces [paper](https://arxiv.org/pdf/2501.09756)     
 
-[2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479) (DiFaReli的扩展 ICCV2023)   [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
+[2025.01] DiFaReli++: Diffusion Face Relighting with Consistent Cast Shadows [paper](https://arxiv.org/pdf/2304.09479)  [code](https://github.com/diffusion-face-relighting/difareli_code)  ![GitHub Repo stars](https://img.shields.io/github/stars/diffusion-face-relighting/difareli_code)   
 
 [2025.01] IC-Portrait: In-Context Matching for View-Consistent Personalized Portrait Generation [paper](https://arxiv.org/pdf/2501.17159)   
 
@@ -289,14 +289,14 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 [3DV2024] Objects With Lighting: A Real-World Dataset for Evaluating Reconstruction and Rendering for Object Relighting [paper](https://arxiv.org/pdf/2401.09126)
 
 ### VIDIT dataset
-训练：300个游戏引擎场景每个场景40种光照(5种色温、8种方向)   
-测试&验证：45个场景  
+<!--训练：300个游戏引擎场景每个场景40种光照(5种色温、8种方向)   
+测试&验证：45个场景   -->
 ### Multi-Illumination dataset
-训练：985个室内场景每个场景25种光照  
-测试&验证：30个场景  
+<!--训练：985个室内场景每个场景25种光照  
+测试&验证：30个场景   -->
 ### DPR dataset
-人脸数据集，利用CelebA-HQ的30000张人脸5种光照合成138,135张图像  
-提供数据集制作脚本  
+<!--人脸数据集，利用CelebA-HQ的30000张人脸5种光照合成138,135张图像  
+提供数据集制作脚本   -->
 ## Metrics
 
 ## Software Products
@@ -312,7 +312,7 @@ FreeLighting: https://github.com/liuyuxuan3060/FreeLighting  https://huggingface
 ### Intrinsic Decomposition & Inverse Rendering
 Please refer to [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) ![GitHub Repo stars](https://img.shields.io/github/stars/tkuri/Awesome-InverseRendering) 
 
-### HDR Generation
+### HDR Panorama Generation
 [SIGGRAPH Asia 2022] Text2Light: Zero-Shot Text-Driven HDR Panorama Generation  [paper](https://arxiv.org/pdf/2209.09898) [project](https://frozenburning.github.io/projects/text2light/) [code](https://github.com/FrozenBurning/Text2Light)  ![GitHub Repo stars](https://img.shields.io/github/stars/FrozenBurning/Text2Light)  
 
 ### PBR Generation
