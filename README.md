@@ -298,6 +298,7 @@ Hope you can help with the following:
 <!--人脸数据集，利用CelebA-HQ的30000张人脸5种光照合成138,135张图像  
 提供数据集制作脚本   -->
 ## Metrics
+ICCV2025 UniLight Workshop [link](https://unilight-workshop.github.io/unilight2025/#)     
 
 ## Software Products
 SwitchLight: https://www.switchlight.beeble.ai/   
