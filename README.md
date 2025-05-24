@@ -47,6 +47,8 @@ Deep Neural Models for Illumination Estimation and Relighting: A Survey
 
 [2022.05] [TIP2022] PNRNet: Physically-Inspired Neural Rendering for Any-to-Any Relighting [paper](https://ieeexplore.ieee.org/document/9785513) [code](https://github.com/waldenlakes/PNRNet) ![GitHub Repo stars](https://img.shields.io/github/stars/waldenlakes/PNRNet)   
 
+[2022.07] Local Relighting of Real Scenes [paper](https://arxiv.org/pdf/2207.02774) [code](https://github.com/audreycui/relighting) ![GitHub Repo stars](https://img.shields.io/github/stars/audreycui/relighting) 
+   
 [2022.07] [TIP2022] Designing an Illumination-Aware Network for Deep Image Relighting [paper](https://arxiv.org/pdf/2207.10582) [code](https://github.com/NK-CS-ZZL/IAN) ![GitHub Repo stars](https://img.shields.io/github/stars/NK-CS-ZZL/IAN)      
 
 [2022.07] [ECCV2022] Geometry-aware Single-image Full-body Human Relighting [paper](https://arxiv.org/pdf/2207.04750) [project](https://jcn16.github.io/jcn.github.io/Relighting/) 
