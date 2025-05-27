@@ -145,6 +145,8 @@ Hope you can help with the following:
 
 [2025.05] [SIGGRAPH2025] LightLab: Controlling Light Sources in Images with Diffusion Models [paper](https://arxiv.org/pdf/2505.09608) [project](https://nadmag.github.io/LightLab/)    
 
+[2025.05] SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model [paper](https://arxiv.org/pdf/2505.19751v1)   
+ 
 
 ### Video
 [2021.04] [ICCV2021] Neural Video Portrait Relighting in Real-time via Consistency Modeling [paper](https://arxiv.org/pdf/2104.00484) [project](https://zhanglongwen.com/projects/nvpr/) [code](https://github.com/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling) ![GitHub Repo stars](https://img.shields.io/github/stars/ZoneLikeWonderland/Neural-Video-Portrait-Relighting-in-Real-time-via-Consistency-Modeling)       
