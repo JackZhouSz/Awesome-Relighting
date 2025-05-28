@@ -231,7 +231,7 @@ Hope you can help with the following:
 
 [2024.11] [CVPR2025] ARM: Appearance Reconstruction Model for Relightable 3D Generation [paper](https://arxiv.org/pdf/2412.15211) [project](https://arm-aigc.github.io/) 
 
-[2024.11] [CVPR2025] NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics [paper](https://arxiv.org/pdf/2411.10189)   
+[2024.11] [CVPR2025] NeISF++: Neural Incident Stokes Field for Polarized Inverse Rendering of Conductors and Dielectrics [paper](https://arxiv.org/pdf/2411.10189)  [project](https://sony.github.io/NeISF/) [code](https://github.com/sony/NeISF)  ![GitHub Repo stars](https://img.shields.io/github/stars/sony/NeISF)    
 
 [2024.11] [CVPR2025] Differentiable Inverse Rendering with Interpretable Basis BRDFs [paper](https://arxiv.org/pdf/2411.17994)  [project](https://hg-chung.github.io/Interpretable-Inverse-Rendering/) [code](https://github.com/hg-chung/Interpretable-Inverse-Rendering) ![GitHub Repo stars](https://img.shields.io/github/stars/hg-chung/Interpretable-Inverse-Rendering)    
 
@@ -257,9 +257,9 @@ Hope you can help with the following:
 
 [2025.02] BEAM:Bridging Physically-based Rendering and Gaussian Modeling for Relightable Volumetric Video [paper](https://arxiv.org/pdf/2502.08297)    
 
-[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/) 
+[2025.03] [CVPR2025] HRAvatar: High-Quality and Relightable Gaussian Head Avatar [paper](https://arxiv.org/pdf/2503.08224) [project](https://eastbeanzhang.github.io/HRAvatar/) [code](https://github.com/Pixel-Talk/HRAvatar)  ![GitHub Repo stars](https://img.shields.io/github/stars/Pixel-Talk/HRAvatar)    
 
-[2025.03] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
+[2025.03] [ICME2025] Fast and Physically-based Neural Explicit Surface for Relightable Human Avatars [paper](https://arxiv.org/pdf/2503.18408)     
 
 [2025.03] TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting [paper](https://arxiv.org/pdf/2503.22676)     
 
@@ -273,7 +273,12 @@ Hope you can help with the following:
 
 [2025.04] RGS-DR:Reflective Gaussian Surfels with Deferred Rendering for Shiny Objects [paper](https://arxiv.org/pdf/2504.18468)   
 
-[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026)    
+[2025.04] [CVPR2025] LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields [paper](https://arxiv.org/pdf/2504.20026) [project](https://lzqsd.github.io/LIRM.github.io/)      
+
+[2025.05] Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting [paper](https://export.arxiv.org/pdf/2505.20582) 
+
+[2025.05]  Generalizable and Relightable Gaussian Splatting for HumanNovel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
+
 
 ### Security
 
