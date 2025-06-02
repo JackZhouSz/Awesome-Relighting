@@ -282,7 +282,9 @@ Hope you can help with the following:
 
 ### Security
 
-[2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition [paper](https://arxiv.org/pdf/2108.07920)         
+[2021.08] [TIFS2024]  Adversarial Relighting Against Face Recognition [paper](https://arxiv.org/pdf/2108.07920)        
+
+[2025.06] Light as Deception: GPT-driven Natural Relighting Against Vision-Language Pre-training Models [paper](https://arxiv.org/pdf/2505.24227)  
 
 
 ### Reinforcement Learning
