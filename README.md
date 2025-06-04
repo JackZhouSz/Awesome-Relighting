@@ -171,6 +171,8 @@ Hope you can help with the following:
 
 [2025.03] Follow Your Motion: A Generic Temporal Consistency Portrait Editing Framework with Trajectory Guidance [paper](https://arxiv.org/pdf/2503.22225) [project](https://anonymous-hub1127.github.io/FYM.github.io/)     
 
+[2025.06] IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation [paper](https://arxiv.org/pdf/2506.03150) [project](https://yuanze-lin.me/IllumiCraft_page/)  [code](https://github.com/yuanze-lin/IllumiCraft) ![GitHub Repo stars](https://img.shields.io/github/stars/yuanze-lin/IllumiCraft)   
+
 
 
 ### 3D
