@@ -279,7 +279,9 @@ Hope you can help with the following:
 
 [2025.05] Total-Editing: Head Avatar with Editable Appearance, Motion, and Lighting [paper](https://export.arxiv.org/pdf/2505.20582) 
 
-[2025.05]  Generalizable and Relightable Gaussian Splatting for HumanNovel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
+[2025.05] Generalizable and Relightable Gaussian Splatting for HumanNovel View Synthesis [paper](https://arxiv.org/pdf/2505.21502) [project](https://sypj-98.github.io/grgs/)   
+
+[2025.06] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
 
 
 ### Security
