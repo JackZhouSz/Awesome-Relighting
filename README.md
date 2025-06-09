@@ -283,6 +283,8 @@ Hope you can help with the following:
 
 [2025.06] [CVPR2025] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
 
+[2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)       
+
 
 ### Security
 
