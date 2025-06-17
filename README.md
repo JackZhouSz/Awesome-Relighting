@@ -283,8 +283,9 @@ Hope you can help with the following:
 
 [2025.06] [CVPR2025] Neural Inverse Rendering from Propagating Light [paper](https://arxiv.org/pdf/2506.05347) [project](https://anaghmalik.com/InvProp/) 
 
-[2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)       
+[2025.06] BecomingLit: Relightable Gaussian Avatars with Hybrid Neural Shading [paper](https://arxiv.org/pdf/2506.06271) [project](https://jonathsch.github.io/becominglit/)     
 
+[2025.06] [CVPR2025] GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction [paper](https://arxiv.org/pdf/2506.13110) [code](https://github.com/hirotong/GS2DGS) ![GitHub Repo stars](https://img.shields.io/github/stars/hirotong/GS2DGS)   
 
 ### Security
 
