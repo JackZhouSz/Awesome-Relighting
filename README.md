@@ -146,6 +146,8 @@ Hope you can help with the following:
 [2025.05] [SIGGRAPH2025] LightLab: Controlling Light Sources in Images with Diffusion Models [paper](https://arxiv.org/pdf/2505.09608) [project](https://nadmag.github.io/LightLab/)    
 
 [2025.05] SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model [paper](https://arxiv.org/pdf/2505.19751v1)   
+
+[2025.06] DreamLight: Towards Harmonious and Consistent Image Relighting [paper](https://arxiv.org/pdf/2506.14549)
  
 
 ### Video
