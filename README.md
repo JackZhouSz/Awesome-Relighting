@@ -175,6 +175,8 @@ Hope you can help with the following:
 
 [2025.06] IllumiCraft: Unified Geometry and Illumination Diffusion for Controllable Video Generation [paper](https://arxiv.org/pdf/2506.03150) [project](https://yuanze-lin.me/IllumiCraft_page/)  [code](https://github.com/yuanze-lin/IllumiCraft) ![GitHub Repo stars](https://img.shields.io/github/stars/yuanze-lin/IllumiCraft)   
 
+[2025.06] UniRelight: Learning Joint Decomposition and Synthesis for Video Relighting [paper](https://arxiv.org/pdf/2506.15673) [project](https://research.nvidia.com/labs/toronto-ai/UniRelight/)  
+
 
 
 ### 3D
